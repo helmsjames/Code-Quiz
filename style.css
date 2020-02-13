@@ -1,8 +1,57 @@
 * {
     box-sizing: content-box;
+    
+  }
+  body {
+    text-align: center;
+    display: block;
+    background-color: rgba(68, 86, 163, 0.24);
   }
 
-  .button {
+  a {
+    color: #563d7c;
+  }
+  button, .badge, .btn {
     background-color: #563d7c;
+    color: white;
+    
+  }
+  button {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .header {
+    display:flex;
+    justify-content: space-between;
+    padding:10px;
+    text-align: center;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .hide {
+    display: none;
   }
   
+ .card-body {
+   background-color: #563d7c;
+ }
+
+ .choice {
+   cursor: pointer;
+   border-radius: 1em;
+   border-color: #563d7c;
+ }
+
+ #choices {
+   border-radius: 1em;
+   border-color: #563d7c;
+ }
+ 
+ #question {
+   border-radius: 1em;
+   border-color: #563d7c;
+ }

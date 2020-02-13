@@ -1,4 +1,4 @@
-This is not finished/complete script but I wanted to submit the homework regardless of where I'm as we're instructed to. It is a work in progresss like the rest of homework activities but I am still working on it and hope to get it close to perfect by tomorrow.
+
 
 
 # 04 Web APIs: Code Quiz
