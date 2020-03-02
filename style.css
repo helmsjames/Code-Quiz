@@ -31,7 +31,15 @@
   h1 {
     text-align: center;
   }
+  /* #question {
 
+    border-radius: 1em;
+    border-color: #563d7c;
+  } */
+.list-group-item {
+  border-radius: 1em;
+  border-color: #563d7c;
+}
   .hide {
     display: none;
   }
@@ -40,18 +48,6 @@
    background-color: #563d7c;
  }
 
- .choice {
+ .choice, .view-high-scores {
    cursor: pointer;
-   border-radius: 1em;
-   border-color: #563d7c;
- }
-
- #choices {
-   border-radius: 1em;
-   border-color: #563d7c;
- }
- 
- #question {
-   border-radius: 1em;
-   border-color: #563d7c;
  }
